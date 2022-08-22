@@ -1,0 +1,42 @@
+@mixin flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body {
+  font-family: 'Roboto', sans-serif !important;
+}
+.box-header {
+  background: linear-gradient(to right, rgb(221, 94, 137), rgb(247, 187, 151));
+}
+.header {
+  @include flex;
+  font-size: 70px;
+  color: #e8858e;
+  text-shadow: -2px 2px #ffffff, -2px -2px #ffffff, 2px -2px #ffffff,
+    2px 2px #f3f3f2, 5px 5px #6ac7c2;
+}
+.img {
+  @include flex;
+  text-align: center;
+  flex-direction: column;
+  height: 650px;
+}
+.img img {
+  height: 350px;
+  padding: 5px;
+}
+.box-tomo {
+  @include flex;
+  text-align: center;
+  padding: 20px;
+}
+.ant-tag {
+  height: 40px !important;
+  width: 70px !important;
+  padding: 5px !important;
+}
+.footer {
+  color: #000000;
+  padding: 20px;
+}
