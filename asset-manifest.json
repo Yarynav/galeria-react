@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.0ac6000d.css",
-    "main.js": "/repository-name/static/js/main.814de58f.js",
-    "static/js/787.b6b34b7d.chunk.js": "/repository-name/static/js/787.b6b34b7d.chunk.js",
-    "index.html": "/repository-name/index.html",
-    "main.0ac6000d.css.map": "/repository-name/static/css/main.0ac6000d.css.map",
-    "main.814de58f.js.map": "/repository-name/static/js/main.814de58f.js.map",
-    "787.b6b34b7d.chunk.js.map": "/repository-name/static/js/787.b6b34b7d.chunk.js.map"
+    "main.css": "/galeria-react/static/css/main.0ac6000d.css",
+    "main.js": "/galeria-react/static/js/main.45c6ff32.js",
+    "static/js/787.b6b34b7d.chunk.js": "/galeria-react/static/js/787.b6b34b7d.chunk.js",
+    "index.html": "/galeria-react/index.html",
+    "main.0ac6000d.css.map": "/galeria-react/static/css/main.0ac6000d.css.map",
+    "main.45c6ff32.js.map": "/galeria-react/static/js/main.45c6ff32.js.map",
+    "787.b6b34b7d.chunk.js.map": "/galeria-react/static/js/787.b6b34b7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ac6000d.css",
-    "static/js/main.814de58f.js"
+    "static/js/main.45c6ff32.js"
   ]
 }
